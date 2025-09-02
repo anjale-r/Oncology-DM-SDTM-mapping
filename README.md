@@ -1,8 +1,7 @@
 # Oncology-DM-SDTM-mapping
 SDTM Demographics (DM) dataset for an oncology study, mapped from CRF using CDISC standards.
 
-This repository contains the **Demographics (DM) domain** of an oncology clinical trial, structured according to the **CDISC SDTM (Study Data Tabulation Model) standards**.  
----
+This repository contains the Demographics(DM) domain of an oncology clinical trial, structured according to the CDISC SDTM(Study Data Tabulation Model) standards.
 
 ---
 
