@@ -1,0 +1,101 @@
+study_id,subject_id,visit_name,administration_date,administration_time,study_drug_name,Drug,dose_unit,route_of_administration,formulation,lot_number,compliance_percent,missed_doses,dose_modification,modification_reason,administered_by,storage_condition_met
+STUDY001,SUB0001,Period 1,15-02-2024,09:58,Investigational Product,50,mg,Oral,Tablet,LOT4847,90,2,No,,Study Staff,Yes
+STUDY001,SUB0001,Period 2,29-02-2024,12:02,Investigational Product,100,mg,Oral,Tablet,LOT9183,85,2,No,,Study Staff,Yes
+STUDY001,SUB0002,Period 1,15-02-2024,10:43,Investigational Product,50,mg,Oral,Tablet,LOT1474,90,2,No,,Study Staff,Yes
+STUDY001,SUB0002,Period 2,29-02-2024,10:59,Investigational Product,100,mg,Oral,Tablet,LOT2604,90,0,No,,Study Staff,Yes
+STUDY001,SUB0003,Period 1,15-02-2024,11:30,Investigational Product,50,mg,Oral,Tablet,LOT7350,88,2,No,,Subject,Yes
+STUDY001,SUB0003,Period 2,29-02-2024,10:57,Investigational Product,100,mg,Oral,Tablet,LOT8593,85,2,No,,Subject,Yes
+STUDY001,SUB0004,Period 1,15-02-2024,10:13,Investigational Product,50,mg,Oral,Tablet,LOT9289,97,1,No,,Subject,Yes
+STUDY001,SUB0004,Period 2,29-02-2024,12:26,Investigational Product,100,mg,Oral,Tablet,LOT3368,88,0,No,,Study Staff,Yes
+STUDY001,SUB0005,Period 1,15-02-2024,11:54,Investigational Product,100,mg,Oral,Tablet,LOT7656,93,2,No,,Study Staff,Yes
+STUDY001,SUB0005,Period 2,29-02-2024,12:36,Investigational Product,50,mg,Oral,Tablet,LOT6788,92,1,No,,Subject,Yes
+STUDY001,SUB0006,Period 1,15-02-2024,11:48,Investigational Product,100,mg,Oral,Tablet,LOT7232,91,2,No,,Subject,Yes
+STUDY001,SUB0006,Period 2,29-02-2024,10:00,Investigational Product,50,mg,Oral,Tablet,LOT2984,94,0,No,,Study Staff,Yes
+STUDY001,SUB0007,Period 1,15-02-2024,08:13,Investigational Product,50,mg,Oral,Tablet,LOT4072,91,2,No,,Subject,Yes
+STUDY001,SUB0007,Period 2,29-02-2024,10:27,Investigational Product,100,mg,Oral,Tablet,LOT9195,96,1,No,,Subject,Yes
+STUDY001,SUB0008,Period 1,15-02-2024,12:17,Investigational Product,100,mg,Oral,Tablet,LOT7646,99,1,No,,Subject,Yes
+STUDY001,SUB0008,Period 2,29-02-2024,08:16,Investigational Product,50,mg,Oral,Tablet,LOT7620,97,0,No,,Study Staff,Yes
+STUDY001,SUB0009,Period 1,15-02-2024,08:45,Investigational Product,100,mg,Oral,Tablet,LOT6035,86,1,No,,Subject,Yes
+STUDY001,SUB0009,Period 2,29-02-2024,10:29,Investigational Product,50,mg,Oral,Tablet,LOT7103,88,0,No,,Study Staff,Yes
+STUDY001,SUB0010,Period 1,15-02-2024,08:27,Investigational Product,100,mg,Oral,Tablet,LOT8972,96,0,No,,Study Staff,Yes
+STUDY001,SUB0010,Period 2,29-02-2024,08:56,Investigational Product,50,mg,Oral,Tablet,LOT4750,99,1,No,,Subject,Yes
+STUDY001,SUB0011,Period 1,15-02-2024,11:32,Investigational Product,50,mg,Oral,Tablet,LOT5614,97,0,No,,Study Staff,Yes
+STUDY001,SUB0011,Period 2,29-02-2024,11:29,Investigational Product,100,mg,Oral,Tablet,LOT9914,93,0,No,,Study Staff,Yes
+STUDY001,SUB0012,Period 1,15-02-2024,10:37,Investigational Product,100,mg,Oral,Tablet,LOT8416,85,1,No,,Study Staff,Yes
+STUDY001,SUB0012,Period 2,29-02-2024,09:58,Investigational Product,50,mg,Oral,Tablet,LOT3889,87,1,No,,Study Staff,Yes
+STUDY001,SUB0013,Period 1,15-02-2024,09:31,Investigational Product,100,mg,Oral,Tablet,LOT5430,99,0,No,,Subject,Yes
+STUDY001,SUB0013,Period 2,29-02-2024,12:22,Investigational Product,50,mg,Oral,Tablet,LOT4789,93,2,No,,Subject,Yes
+STUDY001,SUB0014,Period 1,15-02-2024,09:35,Investigational Product,100,mg,Oral,Tablet,LOT8829,99,2,No,,Subject,Yes
+STUDY001,SUB0014,Period 2,29-02-2024,10:55,Investigational Product,50,mg,Oral,Tablet,LOT6108,89,0,No,,Study Staff,Yes
+STUDY001,SUB0015,Period 1,15-02-2024,10:47,Investigational Product,100,mg,Oral,Tablet,LOT1309,91,2,No,,Study Staff,Yes
+STUDY001,SUB0015,Period 2,29-02-2024,10:02,Investigational Product,50,mg,Oral,Tablet,LOT7225,89,2,No,,Study Staff,Yes
+STUDY001,SUB0016,Period 1,15-02-2024,10:41,Investigational Product,50,mg,Oral,Tablet,LOT3182,100,2,No,,Subject,Yes
+STUDY001,SUB0016,Period 2,29-02-2024,08:23,Investigational Product,100,mg,Oral,Tablet,LOT4446,92,2,No,,Study Staff,Yes
+STUDY001,SUB0017,Period 1,15-02-2024,08:47,Investigational Product,50,mg,Oral,Tablet,LOT2541,88,1,No,,Subject,Yes
+STUDY001,SUB0017,Period 2,29-02-2024,08:43,Investigational Product,100,mg,Oral,Tablet,LOT3882,91,0,No,,Subject,Yes
+STUDY001,SUB0018,Period 1,15-02-2024,12:55,Investigational Product,100,mg,Oral,Tablet,LOT2349,87,1,No,,Study Staff,Yes
+STUDY001,SUB0018,Period 2,29-02-2024,08:39,Investigational Product,50,mg,Oral,Tablet,LOT4960,92,1,No,,Subject,Yes
+STUDY001,SUB0019,Period 1,15-02-2024,09:35,Investigational Product,100,mg,Oral,Tablet,LOT6952,87,2,No,,Subject,Yes
+STUDY001,SUB0019,Period 2,29-02-2024,09:05,Investigational Product,50,mg,Oral,Tablet,LOT6466,91,2,No,,Subject,Yes
+STUDY001,SUB0020,Period 1,15-02-2024,09:26,Investigational Product,50,mg,Oral,Tablet,LOT2755,98,0,No,,Study Staff,Yes
+STUDY001,SUB0020,Period 2,29-02-2024,09:13,Investigational Product,100,mg,Oral,Tablet,LOT7464,97,0,No,,Study Staff,Yes
+STUDY001,SUB0021,Period 1,15-02-2024,12:52,Investigational Product,50,mg,Oral,Tablet,LOT8813,99,1,No,,Subject,Yes
+STUDY001,SUB0021,Period 2,29-02-2024,11:58,Investigational Product,100,mg,Oral,Tablet,LOT8480,91,2,No,,Study Staff,Yes
+STUDY001,SUB0022,Period 1,15-02-2024,09:04,Investigational Product,50,mg,Oral,Tablet,LOT1518,89,1,No,,Subject,Yes
+STUDY001,SUB0022,Period 2,29-02-2024,09:19,Investigational Product,100,mg,Oral,Tablet,LOT9300,89,1,No,,Study Staff,Yes
+STUDY001,SUB0023,Period 1,15-02-2024,08:05,Investigational Product,50,mg,Oral,Tablet,LOT8179,91,0,No,,Study Staff,Yes
+STUDY001,SUB0023,Period 2,29-02-2024,10:47,Investigational Product,100,mg,Oral,Tablet,LOT6032,91,0,No,,Study Staff,Yes
+STUDY001,SUB0024,Period 1,15-02-2024,11:41,Investigational Product,100,mg,Oral,Tablet,LOT9366,89,2,No,,Subject,Yes
+STUDY001,SUB0024,Period 2,29-02-2024,11:35,Investigational Product,50,mg,Oral,Tablet,LOT3650,94,2,No,,Study Staff,Yes
+STUDY001,SUB0025,Period 1,15-02-2024,08:08,Investigational Product,100,mg,Oral,Tablet,LOT2265,97,0,No,,Study Staff,Yes
+STUDY001,SUB0025,Period 2,29-02-2024,11:40,Investigational Product,50,mg,Oral,Tablet,LOT8086,98,0,No,,Study Staff,Yes
+STUDY001,SUB0026,Period 1,15-02-2024,12:46,Investigational Product,100,mg,Oral,Tablet,LOT9067,99,1,No,,Subject,Yes
+STUDY001,SUB0026,Period 2,29-02-2024,08:32,Investigational Product,50,mg,Oral,Tablet,LOT7407,88,0,No,,Study Staff,Yes
+STUDY001,SUB0027,Period 1,15-02-2024,09:15,Investigational Product,50,mg,Oral,Tablet,LOT5857,96,0,No,,Study Staff,Yes
+STUDY001,SUB0027,Period 2,29-02-2024,08:58,Investigational Product,100,mg,Oral,Tablet,LOT6417,95,2,No,,Subject,Yes
+STUDY001,SUB0028,Period 1,15-02-2024,09:39,Investigational Product,50,mg,Oral,Tablet,LOT9963,98,0,No,,Subject,Yes
+STUDY001,SUB0028,Period 2,29-02-2024,12:03,Investigational Product,100,mg,Oral,Tablet,LOT8231,97,2,No,,Subject,Yes
+STUDY001,SUB0029,Period 1,15-02-2024,12:32,Investigational Product,50,mg,Oral,Tablet,LOT2113,92,2,No,,Subject,Yes
+STUDY001,SUB0029,Period 2,29-02-2024,12:59,Investigational Product,100,mg,Oral,Tablet,LOT1960,98,1,No,,Subject,Yes
+STUDY001,SUB0030,Period 1,15-02-2024,08:35,Investigational Product,50,mg,Oral,Tablet,LOT9496,89,0,No,,Study Staff,Yes
+STUDY001,SUB0030,Period 2,29-02-2024,11:19,Investigational Product,100,mg,Oral,Tablet,LOT9006,87,2,No,,Subject,Yes
+STUDY001,SUB0031,Period 1,15-02-2024,12:28,Investigational Product,50,mg,Oral,Tablet,LOT6460,99,0,No,,Study Staff,Yes
+STUDY001,SUB0031,Period 2,29-02-2024,09:46,Investigational Product,100,mg,Oral,Tablet,LOT5313,97,2,No,,Subject,Yes
+STUDY001,SUB0032,Period 1,15-02-2024,08:38,Investigational Product,50,mg,Oral,Tablet,LOT8287,90,0,No,,Study Staff,Yes
+STUDY001,SUB0032,Period 2,29-02-2024,09:57,Investigational Product,100,mg,Oral,Tablet,LOT7148,85,1,No,,Study Staff,Yes
+STUDY001,SUB0033,Period 1,15-02-2024,10:47,Investigational Product,100,mg,Oral,Tablet,LOT8064,92,1,No,,Study Staff,Yes
+STUDY001,SUB0033,Period 2,29-02-2024,10:43,Investigational Product,50,mg,Oral,Tablet,LOT7314,93,0,No,,Study Staff,Yes
+STUDY001,SUB0034,Period 1,15-02-2024,08:19,Investigational Product,100,mg,Oral,Tablet,LOT7877,92,2,No,,Subject,Yes
+STUDY001,SUB0034,Period 2,29-02-2024,08:55,Investigational Product,50,mg,Oral,Tablet,LOT1557,98,0,No,,Study Staff,Yes
+STUDY001,SUB0035,Period 1,15-02-2024,08:38,Investigational Product,100,mg,Oral,Tablet,LOT9948,95,0,No,,Study Staff,Yes
+STUDY001,SUB0035,Period 2,29-02-2024,09:44,Investigational Product,50,mg,Oral,Tablet,LOT3921,91,0,No,,Subject,Yes
+STUDY001,SUB0036,Period 1,15-02-2024,08:06,Investigational Product,100,mg,Oral,Tablet,LOT6664,85,1,No,,Subject,Yes
+STUDY001,SUB0036,Period 2,29-02-2024,10:43,Investigational Product,50,mg,Oral,Tablet,LOT4864,87,2,No,,Subject,Yes
+STUDY001,SUB0037,Period 1,15-02-2024,12:10,Investigational Product,100,mg,Oral,Tablet,LOT9725,90,2,No,,Subject,Yes
+STUDY001,SUB0037,Period 2,29-02-2024,11:31,Investigational Product,50,mg,Oral,Tablet,LOT6769,99,0,No,,Subject,Yes
+STUDY001,SUB0038,Period 1,15-02-2024,09:01,Investigational Product,50,mg,Oral,Tablet,LOT1730,96,0,No,,Study Staff,Yes
+STUDY001,SUB0038,Period 2,29-02-2024,10:05,Investigational Product,100,mg,Oral,Tablet,LOT1420,95,0,No,,Subject,Yes
+STUDY001,SUB0039,Period 1,15-02-2024,10:37,Investigational Product,50,mg,Oral,Tablet,LOT4888,86,1,No,,Study Staff,Yes
+STUDY001,SUB0039,Period 2,29-02-2024,12:35,Investigational Product,100,mg,Oral,Tablet,LOT3256,90,0,No,,Subject,Yes
+STUDY001,SUB0040,Period 1,15-02-2024,11:04,Investigational Product,50,mg,Oral,Tablet,LOT3240,99,1,No,,Subject,Yes
+STUDY001,SUB0040,Period 2,29-02-2024,09:42,Investigational Product,100,mg,Oral,Tablet,LOT9801,100,1,No,,Subject,Yes
+STUDY001,SUB0041,Period 1,15-02-2024,08:41,Investigational Product,50,mg,Oral,Tablet,LOT8567,86,1,No,,Subject,Yes
+STUDY001,SUB0041,Period 2,29-02-2024,08:53,Investigational Product,100,mg,Oral,Tablet,LOT6529,87,2,No,,Subject,Yes
+STUDY001,SUB0042,Period 1,15-02-2024,08:01,Investigational Product,50,mg,Oral,Tablet,LOT4244,85,0,No,,Study Staff,Yes
+STUDY001,SUB0042,Period 2,29-02-2024,10:31,Investigational Product,100,mg,Oral,Tablet,LOT1296,86,1,No,,Study Staff,Yes
+STUDY001,SUB0043,Period 1,15-02-2024,09:40,Investigational Product,100,mg,Oral,Tablet,LOT8552,88,1,No,,Study Staff,Yes
+STUDY001,SUB0043,Period 2,29-02-2024,10:04,Investigational Product,50,mg,Oral,Tablet,LOT2488,96,2,No,,Subject,Yes
+STUDY001,SUB0044,Period 1,15-02-2024,10:25,Investigational Product,100,mg,Oral,Tablet,LOT7996,88,2,No,,Study Staff,Yes
+STUDY001,SUB0044,Period 2,29-02-2024,08:02,Investigational Product,50,mg,Oral,Tablet,LOT8932,87,0,No,,Subject,Yes
+STUDY001,SUB0045,Period 1,15-02-2024,09:46,Investigational Product,100,mg,Oral,Tablet,LOT3652,89,0,No,,Study Staff,Yes
+STUDY001,SUB0045,Period 2,29-02-2024,08:39,Investigational Product,50,mg,Oral,Tablet,LOT4846,88,2,No,,Subject,Yes
+STUDY001,SUB0046,Period 1,15-02-2024,08:51,Investigational Product,100,mg,Oral,Tablet,LOT6425,86,0,No,,Study Staff,Yes
+STUDY001,SUB0046,Period 2,29-02-2024,08:49,Investigational Product,50,mg,Oral,Tablet,LOT1042,93,2,No,,Study Staff,Yes
+STUDY001,SUB0047,Period 1,15-02-2024,12:58,Investigational Product,100,mg,Oral,Tablet,LOT8771,95,2,No,,Subject,Yes
+STUDY001,SUB0047,Period 2,29-02-2024,08:40,Investigational Product,50,mg,Oral,Tablet,LOT1038,92,2,No,,Study Staff,Yes
+STUDY001,SUB0048,Period 1,15-02-2024,09:34,Investigational Product,50,mg,Oral,Tablet,LOT9283,96,2,No,,Study Staff,Yes
+STUDY001,SUB0048,Period 2,29-02-2024,10:51,Investigational Product,100,mg,Oral,Tablet,LOT2988,97,2,No,,Study Staff,Yes
+STUDY001,SUB0049,Period 1,15-02-2024,08:41,Investigational Product,100,mg,Oral,Tablet,LOT2933,85,0,No,,Study Staff,Yes
+STUDY001,SUB0049,Period 2,29-02-2024,09:09,Investigational Product,50,mg,Oral,Tablet,LOT3583,86,0,No,,Study Staff,Yes
+STUDY001,SUB0050,Period 1,15-02-2024,09:45,Investigational Product,50,mg,Oral,Tablet,LOT6201,93,1,No,,Study Staff,Yes
+STUDY001,SUB0050,Period 2,29-02-2024,09:21,Investigational Product,100,mg,Oral,Tablet,LOT2755,86,0,No,,Study Staff,Yes
